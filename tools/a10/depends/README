@@ -1,0 +1,9 @@
+Build libcedarx for Allwinner A10 devices like Mele A1000
+- needed for the A10 VLC port -
+
+1) First take a look to the depends.mk and fit settings to your environment.
+
+2) Compile
+
+make
+make install
